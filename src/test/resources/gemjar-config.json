@@ -1,0 +1,18 @@
+{
+  "environment": "dev",
+  "project_name": "HELPDESK",
+  "report_name": "Helpdesk Automation Report",
+  "glueCode": "stepdefination",
+  "enter_point": "https://apis.gemecosystem.com/enter-point",
+  "feature": "src/test/resources/features/",
+  "gemjarSubID": "test_id",
+  "chromeOptions" : ["--incognito"],
+  "tagName": "@regression",
+  "dev": {
+    "browserName": "chrome",
+    "email": "aditya.saraswat@geminisolutions.com",
+    "pswd": "Pimco#adi123",
+    "launchUrl": "https://helpdeskui-np.geminisolutions.com/",
+    "browserTimeout": 100
+  }
+}
