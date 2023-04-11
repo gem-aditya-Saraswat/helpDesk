@@ -4,8 +4,6 @@
   "report_name": "Helpdesk Automation Report",
   "glueCode": "stepdefination",
   "enter_point": "https://apis.gemecosystem.com/enter-point",
-  "jewel_user": "aditya",
-  "jewel_bridge_token": "8393a132-27ee-4729-b479-e924dd3932c61679488185921",
   "feature": "src/test/resources/features/",
   "gemjarSubID": "test_id",
   "chromeOptions" : ["--incognito"],

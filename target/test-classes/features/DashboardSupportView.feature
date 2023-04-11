@@ -1,4 +1,3 @@
-@regression
 Feature: Dashboard Support View
   Scenario: Verify support view dashboard tab clicks
     Given User Do Login with "Userid" and "Password" on "Support" view
